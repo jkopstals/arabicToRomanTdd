@@ -1,0 +1,12 @@
+{
+    "name": "janiskopstals/hackaton",
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "authors": [
+        {
+            "name": "jkopstals",
+            "email": "janis.kopstals@vendon.net"
+        }
+    ]
+}
